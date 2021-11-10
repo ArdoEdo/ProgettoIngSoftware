@@ -5,7 +5,7 @@ Ordini:
 ...(discussione sull'impleantazione postuma)
 -un ordine contiene le consumazioni;
 -l'ordine si divide per cibo(ordine indirizzato alla cucina) e bevande(ordine che va al bancone);
--per ogni tavolo può essere effetuato più di un ordine;
+-per ogni tavolo può essere effettuato più di un ordine;
 -tabella unica dove si distingue tra interno, esterno e bancone; 
 -gli ordini hanno un identificativo per i tavoli associato al numero del tavolo/posto bancone;
 -gli ordini del bancone possono essere presi sia dal cameriere che dal barman;
